@@ -1,0 +1,4 @@
+matplotlib
+numpy
+scikit-image 0.24.0
+setuptools 74.1.2
